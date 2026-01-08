@@ -2,6 +2,8 @@
 
 ### A passionate Typescript developer
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=dshark95)](https://git.io/streak-stats)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=dshark95" alt="dshark95" /></a> </p>
 
 - 🔭 I'm currently working on **MPS System**
