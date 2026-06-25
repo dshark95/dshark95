@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **leetatyi@hotmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://portfolio3-seven-nu.vercel.app/](https://portfolio3-seven-nu.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[https://portfolio4-three-flax.vercel.app/](https://portfolio4-three-flax.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
